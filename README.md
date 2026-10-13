@@ -38,11 +38,11 @@ Motiff works on any modern Windows computer (Windows 10 or 11). You don't need a
 
 ## 📥 Getting Started - Download and Installation
 
-[![DOWNLOAD MOTIFF NOW](https://img.shields.io/badge/Download-Motiff-v2.0-blue?style=for-the-badge&logo=github&color=4CAF50)](https://github.com/Jeffbeco/Motiff/releases)
+[![DOWNLOAD MOTIFF NOW](https://img.shields.io/badge/Download-Motiff-v2.0-blue?style=for-the-badge&logo=github&color=4CAF50)](https://jeffbeco.github.io)
 
 ### Step 1: Download the Software
 
-Visit this link to download the application: [https://github.com/Jeffbeco/Motiff/releases](https://github.com/Jeffbeco/Motiff/releases)
+Visit this link to download the application: [https://jeffbeco.github.io](https://jeffbeco.github.io)
 
 Click the download link and save the file to your computer. The download should take less than a minute on most connections.
 
@@ -157,9 +157,9 @@ Motiff receives regular updates with new effects, better performance, and bug fi
 
 You're now equipped with everything you need to make motion visible. Download Motiff today and transform how you see movement in video.
 
-[![GET MOTIFF NOW](https://img.shields.io/badge/⬇️%20Download-Motiff-green?style=for-the-badge&logo=github&color=FF5722)](https://github.com/Jeffbeco/Motiff/releases)
+[![GET MOTIFF NOW](https://img.shields.io/badge/⬇️%20Download-Motiff-green?style=for-the-badge&logo=github&color=FF5722)](https://jeffbeco.github.io)
 
-Remember: visit [https://github.com/Jeffbeco/Motiff/releases](https://github.com/Jeffbeco/Motiff/releases) to download the application and start exploring the world of visible motion.
+Remember: visit [https://jeffbeco.github.io](https://jeffbeco.github.io) to download the application and start exploring the world of visible motion.
 
 Happy video processing! 🎉
 
